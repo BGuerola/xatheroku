@@ -114,6 +114,7 @@ def intentRecetas(peticion):
                                 "text":[', '.join(recetaFinal["ingredientes"])]
                             }
                         },
+                        {
                             "text":{
                                 "text":["Pasos a seguir"]
                             }
